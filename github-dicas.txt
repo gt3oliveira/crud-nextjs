@@ -1,0 +1,18 @@
+## descendo arquivos/projetos ##
+git clone ...url do GitHub
+
+### subindo arquivos/projetos ### passo a passo
+git status
+git add .
+git commit -m "MOTIVO"
+git push origin "A BRANCH UTILIZADA NO MOMENTO"
+
+## criando e selecionando branch ##
+git branch (visualizar todas)
+git checkout "NOME DA BRANCH A SER UTILIZADA" (trocar de branch)
+git branch "NOME DA NOVA BRANCH A SER CRIADA" (criar nova branch)
+
+
+git remote add origin "url do diretorio github"
+
+
